@@ -1,0 +1,15 @@
+C:\Users\hitro\Desktop\proekt\proga\bin\Debug\net6.0\proga.exe
+C:\Users\hitro\Desktop\proekt\proga\bin\Debug\net6.0\proga.deps.json
+C:\Users\hitro\Desktop\proekt\proga\bin\Debug\net6.0\proga.runtimeconfig.json
+C:\Users\hitro\Desktop\proekt\proga\bin\Debug\net6.0\proga.dll
+C:\Users\hitro\Desktop\proekt\proga\bin\Debug\net6.0\proga.pdb
+C:\Users\hitro\Desktop\proekt\proga\obj\Debug\net6.0\proga.csproj.AssemblyReference.cache
+C:\Users\hitro\Desktop\proekt\proga\obj\Debug\net6.0\proga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hitro\Desktop\proekt\proga\obj\Debug\net6.0\proga.AssemblyInfoInputs.cache
+C:\Users\hitro\Desktop\proekt\proga\obj\Debug\net6.0\proga.AssemblyInfo.cs
+C:\Users\hitro\Desktop\proekt\proga\obj\Debug\net6.0\proga.csproj.CoreCompileInputs.cache
+C:\Users\hitro\Desktop\proekt\proga\obj\Debug\net6.0\proga.dll
+C:\Users\hitro\Desktop\proekt\proga\obj\Debug\net6.0\refint\proga.dll
+C:\Users\hitro\Desktop\proekt\proga\obj\Debug\net6.0\proga.pdb
+C:\Users\hitro\Desktop\proekt\proga\obj\Debug\net6.0\proga.genruntimeconfig.cache
+C:\Users\hitro\Desktop\proekt\proga\obj\Debug\net6.0\ref\proga.dll
